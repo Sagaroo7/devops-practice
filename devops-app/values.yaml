@@ -1,0 +1,5 @@
+replicaCount: 2
+
+image:
+  repository: sagardave/devops-practice
+  tag: latest
